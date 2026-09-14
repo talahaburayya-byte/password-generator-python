@@ -35,6 +35,7 @@ How It Works
 
 Example
 How many characters for the password: 10
+
 Generated password:
 aB7@xK2!mQ
 
